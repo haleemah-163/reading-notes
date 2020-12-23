@@ -12,7 +12,7 @@
  * statements
 ## when using var command you have to be aware of the rules which are:
 #### var name can start with any charachter except of numbers
-#### dash and period cannot be contained in the variable name
+#### dash and period cannot be contained in the variable name 
 #### You cannot use keywords or reserved words. 
 #### All variables are case sensitive
 #### Use a name that describes the kind of information that the variable stores
