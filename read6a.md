@@ -1,4 +1,4 @@
-### If you want to be a web developer, you need to use the three languages and fit them together, 
+###  If you want to be a web developer, you need to use the three languages and fit them together, 
 ### each one has a separate layer with a different purpose :
 - html
 - css
