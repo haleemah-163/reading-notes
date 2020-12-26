@@ -15,4 +15,4 @@ effort | inspirations
 #### then your job will be great 
 #### and this vedio may help you understand more [mindset growth](https://youtu.be/KUWn_TJTrnU)
 ### but dont forget to take a break, because as Hanaa said 
-## > have a break to not break          
+ > have a break to not break          
